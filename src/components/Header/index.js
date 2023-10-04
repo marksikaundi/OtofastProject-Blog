@@ -14,7 +14,13 @@ const Header = () => {
         <Link href="/contact" className="mr-2">Contact</Link>
         <button>T</button>
       </nav>
-      <div className="">Social links</div>
+      <div className="">
+        <a href="https://github.com/marksikaundi">Github</a>
+        <a href="https://linkedin.com/in/marksikaundi">Linkedin</a>
+        <a href="https://twitter.com/Alisikaundi">X</a>
+        <a href="https://devcircleafrica.com">Web</a>
+
+      </div>
     </header>
   );
 };
