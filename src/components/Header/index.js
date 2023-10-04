@@ -1,6 +1,7 @@
 import React from "react";
 import Link from "next/link";
 import Logo from "./Logo";
+import { LinkedinIcon } from "../Icons";
 
 const Header = () => {
   return (
@@ -16,7 +17,7 @@ const Header = () => {
       </nav>
       <div className="">
         <a href="https://github.com/marksikaundi">Github</a>
-        <a href="https://linkedin.com/in/marksikaundi">Linkedin</a>
+        <a href="https://linkedin.com/in/marksikaundi"><LinkedinIcon /></a>
         <a href="https://twitter.com/Alisikaundi">X</a>
         <a href="https://devcircleafrica.com">Web</a>
 
