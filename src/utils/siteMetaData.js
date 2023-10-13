@@ -1,9 +1,9 @@
 // please update required information
 const siteMetadata = {
-    title: 'Next.js Blog With Tailwind CSS and Contentlayer',
+    title: 'Otofast Project',
     author: 'Mark Sikaundi',
-    headerTitle: 'Next.js Blog',
-    description: 'A blog created with Next.js, Tailwind.css and contentlayer.',
+    headerTitle: 'Articles collection',
+    description: 'Proving world Tech trending stories and top Tech skills',
     language: 'en-us',
     theme: 'system', // system, dark or light
     siteUrl: 'https://www.otofastproject.com', // your website URL
