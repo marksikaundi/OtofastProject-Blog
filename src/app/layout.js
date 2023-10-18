@@ -56,6 +56,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
+      <meta name="google-site-verification" content="SkM_UqhUM8rQ542iTcmpJXC9P5FKusX1VUulRwWr-1A" />
       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5141290108997002"
      crossorigin="anonymous"></script>
       <body
