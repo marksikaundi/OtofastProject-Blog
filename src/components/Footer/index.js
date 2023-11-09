@@ -79,15 +79,22 @@ const Footer = () => {
         <span className="text-center">
           &copy;2023 Otofast org. All rights reserved.
         </span>
-        <Link
-          href="/sitemap.xml"
-          className="text-center underline my-4 md:my-0"
-        >
+        <Link href="#" className="text-center my-4 md:my-0">
+          Terms & Conditions
+        </Link>
+        <Link href="#" className="text-center my-4 md:my-0">
+          Privacy Policy
+        </Link>
+        <Link href="/sitemap.xml" className="text-center my-4 md:my-0">
           sitemap.xml
         </Link>
         <div className="text-center">
           Product of{" "}
-          <a href="https://devcircleafrica.com" className="underline" target="_blank">
+          <a
+            href="https://devcircleafrica.com"
+            className="underline"
+            target="_blank"
+          >
             DevCircle Africa
           </a>
         </div>
